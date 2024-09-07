@@ -26,6 +26,12 @@
     tapping-term-ms = <170>;
 };
 
+&lt {
+    tapping-term-ms = <240>;
+    flavor = "balanced";
+    quick-tap-ms = <150>;
+};
+
 / {
     combos {
         compatible = "zmk,combos";
