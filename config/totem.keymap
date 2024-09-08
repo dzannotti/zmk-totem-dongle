@@ -125,7 +125,7 @@
             bindings = <
         &kp ESC       &kp AT        &kp HASH        &kp DLLR   &kp PRCNT    &kp PG_UP      &kp HOME        &kp UP_ARROW  &kp END    &kp TAB
         &sk LEFT_ALT  &sk LEFT_GUI  &sk LEFT_SHIFT  &sk LCTRL  &sk RALT     &kp PAGE_DOWN  &kp LEFT        &kp DOWN      &kp RIGHT  &kp DEL
-&trans  &kp LC(Z)     &kp LC(X)     &kp LC(C)       &kp TAB    &kp LC(V)    &kp LC(BSPC)   &kp BSPC        &kp LS(F10)   &kp LC(L)  &none    &kp F10
+&trans  &kp LC(Z)     &kp LC(X)     &kp LC(C)       &kp TAB    &kp LC(V)    &kp LC(BSPC)   &kp BSPC        &kp LS(F10)   &kp LC(L)  &kp LC(F4)  &kp F10
                                     &trans          &trans     &trans       &kp ENTER      &kp LEFT_SHIFT  &mo 3
             >;
         };
