@@ -90,7 +90,7 @@
             bindings = <
             &kp Q  &kp W  &kp E  &kp R      &kp T              &kp Y                     &kp U        &kp I         &kp O    &kp P
             &kp A  &kp S  &kp D  &kp F      &kp G              &kp H                     &kp J        &kp K         &kp L    &kp SEMICOLON
-&kp ESCAPE  &kp Z  &kp X  &kp C  &kp V      &kp B              &kp N                     &kp M        &kp COMMA     &kp DOT  &kp FSLH       &kp RIGHT_SHIFT
+&kp ESCAPE  &kp Z  &kp X  &kp C  &kp V      &kp B              &kp N                     &kp M        &kp COMMA     &kp DOT  &kp FSLH       &kp BACKSLASH
                           &none  &lt 2 TAB  &mt LCTRL ENTER    &mt LEFT_SHIFT BACKSPACE  &lt 1 SPACE  &kp LEFT_ALT
             >;
         };
@@ -116,7 +116,7 @@
             bindings = <
            &kp NUMBER_1      &kp NUMBER_2  &kp NUMBER_3           &kp NUMBER_4     &kp N5               &kp NUMBER_6  &kp N7           &kp N8             &kp N9     &kp N0
            &kp LESS_THAN     &kp PERCENT   &kp LEFT_PARENTHESIS   &kp LEFT_BRACE   &kp LBKT             &kp EQUAL     &kp QUESTION     &kp APOSTROPHE     &kp PLUS   &kp ASTERISK
-&kp UNDER  &kp GREATER_THAN  &kp DOLLAR    &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp RIGHT_BRACKET    &kp AT_SIGN   &kp EXCLAMATION  &kp DOUBLE_QUOTES  &kp MINUS  &kp SLASH     &trans
+&kp UNDER  &kp GREATER_THAN  &kp DOLLAR    &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp RIGHT_BRACKET    &kp AT_SIGN   &kp EXCLAMATION  &kp DOUBLE_QUOTES  &kp MINUS  &kp SLASH     &kp BACKSLASH
                                            &none                  &none            &trans               &trans        &trans           &trans
             >;
         };
